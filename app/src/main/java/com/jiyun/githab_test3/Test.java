@@ -9,5 +9,6 @@ import android.util.Log;
 public class Test {
     private void newMethod(){
         Log.e("TAG","Week02");
+        System.out.print("newWeek02");
     }
 }
